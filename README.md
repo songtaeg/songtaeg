@@ -22,6 +22,9 @@
 현이의 가방끈(책 판매와 스터디그룹 같이) (2024.09.12~2024.10.11)
 https://github.com/YSLennon/ProjectBagStrap
 
+🚀자격증
+---
+정보처리기사(2021.11)
 
 🌎 Stats
 ---
