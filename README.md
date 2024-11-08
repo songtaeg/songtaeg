@@ -3,6 +3,7 @@
 안녕하세요 저의 github에 오신 것을 환영합니다 👋
 
 🛠️ 프로그래밍 언어 Skill
+---
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-4285F4?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -14,6 +15,11 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+👨‍👨‍👧‍👧 팀 프로젝트 
+--
+현이의 가방끈(책 판매와 스터디그룹 같이) (2024.09.02~2024.10.10)
+
 
 🌎 Stats
 ---
