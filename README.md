@@ -25,7 +25,7 @@ https://github.com/YSLennon/ProjectBagStrap
 📗 개인 프로젝트
 --
 jsp 영화리뷰 사이트 '방구석 리뷰어' https://github.com/songtaeg/jsp
-react sns 사이트 https://github.com/songtaeg/react_sns
+# react sns 사이트 https://github.com/songtaeg/react_sns
 🚀자격증
 ---
 정보처리기사(2021.11)
