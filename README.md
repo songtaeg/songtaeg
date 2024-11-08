@@ -19,6 +19,7 @@
 👨‍👨‍👧‍👧 팀 프로젝트 
 --
 현이의 가방끈(책 판매와 스터디그룹 같이) (2024.09.02~2024.10.10)
+https://github.com/YSLennon/ProjectBagStrap
 
 
 🌎 Stats
