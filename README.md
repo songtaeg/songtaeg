@@ -2,7 +2,7 @@
 
 안녕하세요 저의 github에 오신 것을 환영합니다 👋
 
-🛠️ 프로그래밍 언어 Skill
+🛠️ 프로그래밍 Skill
 ---
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-4285F4?style=for-the-badge&logo=mysql&logoColor=white)
