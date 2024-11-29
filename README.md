@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=MyGitHub&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=MyGitHub&fontSize=60" />
 
 안녕하세요 저의 github에 오신 것을 환영합니다 👋
 
@@ -37,4 +37,4 @@ https://github.com/YSLennon/ProjectBagStrap
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songtaeg&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songtaeg&show_icons=true&theme=radical)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
