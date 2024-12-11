@@ -21,7 +21,7 @@
 👨‍👨‍👧‍👧 팀 프로젝트
 --
 현이의 가방끈(2024.09.12~2024.10.11)
-https://github.com/YSLennon/ProjectBagStrap
+https://github.com/songtaeg/TeamProject
 
 📗 개인 프로젝트
 --
